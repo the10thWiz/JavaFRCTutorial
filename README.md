@@ -15,6 +15,7 @@ Topics will include:
 * Encoders
 * Gyros
 * Shuffleboard
+* Imaging the Radio
 
 This book is not intended to teach basic Java concepts. However, the reality is that most poeple reading this tutorial will also be learning Java at the same time, so links refrences to videos in a free Udemy course will be provided for many of the Java concepts needed
 
