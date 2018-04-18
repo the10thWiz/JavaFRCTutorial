@@ -109,7 +109,7 @@ You will get an error when it attempts to deploy to the robot, unless you are co
 There are several ways to plug into the roborio:
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="USB cable" %}
 To connect via a USB-B to USB-A cable, plug the USB-B end into the square usb port on the roborio. Then plug the USB-A end into your computer.
 {% endtab %}
 
@@ -118,7 +118,7 @@ Plug the Ethernet cable into the Ethernet port
 {% endtab %}
 
 {% tab title="Wifi" %}
-P
+This option requires more setup. First you need to configure the radio.
 {% endtab %}
 {% endtabs %}
 
