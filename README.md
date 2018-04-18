@@ -1,5 +1,7 @@
 # Introduction
 
+To my knowledge, there is no complete guide to Java FRC programming, so I have decided to create this tutorial. The tutorial is intended for anyone with any amount of Java programming experiance. To get the most out of this tutorial, please prepare by getting a roborio, and other matrials to begin programming.
+
 ## This tutorial will teach the basics of FRC Java programming, along with command based programming.
 
 Topics will include:
