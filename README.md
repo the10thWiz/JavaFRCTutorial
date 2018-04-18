@@ -30,11 +30,9 @@ The complete tutorial: [https://www.udemy.com/java-tutorial/](https://www.udemy.
 //Code will be placed in blocks like this
 ```
 
-**\[warning\] For warning** **\[danger\] For danger**
+**[warning] For warning** **[danger] For danger**
 
-> **\[info\] For info**
->
-> Use this for infomation messages.
+**[info] For info**
 
 
 
