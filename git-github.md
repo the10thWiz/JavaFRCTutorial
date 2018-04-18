@@ -40,5 +40,9 @@ This will be updated with an actual tutorial later
 
 ### Creating a repository
 
-To create a Github repository, open up github.com, click the plus \(in the upper right\) and select **New Repository**. Give it a name, and click finish. 
+To create a Github repository, open up github.com, click the plus \(in the upper right\) and select **New Repository**. Give it a name, and click finish.
+
+{% hint style="info" %}
+Adding projects to the repository will be added later
+{% endhint %}
 
