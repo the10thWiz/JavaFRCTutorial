@@ -47,6 +47,6 @@ Warnings will look like this. Warnings are simple tidbits and best practices
 {% endhint %}
 
 {% hint style="danger" %}
-Danger signs will be used in idicate items that could be extremely bad.
+Danger signs will be used in indicate items that could be extremely bad.
 {% endhint %}
 
