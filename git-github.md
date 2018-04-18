@@ -28,7 +28,15 @@ If someone else has made changes, and pushed them to github, you can pull them t
 
 ### Merging
 
+{% hint style="danger" %}
+If you get this wrong, it can take hours to fix the mess that this creates. Follow these instructions carefully
+{% endhint %}
 
+Don't. Just get someone who knows what there doing.
+
+{% hint style="info" %}
+This will be updated with an actual tutorial later
+{% endhint %}
 
 ### Creating a repository
 
