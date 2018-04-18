@@ -102,6 +102,10 @@ System.out.println("Hello, World!");
 
 To run the program, right click on the the project in the Package explorer, and select **Run As...** &gt; **WPILib Java Deploy**.
 
+{% hint style="warning" %}
+You may get an error about the java compiler, like compiler not found. To fix this, go to **Window **&gt; **Prefrences**. In the window, select **Java **&gt; **Installed JREs**. There, select the JDK, rather than the JRE.
+{% endhint %}
+
 You will get an error when it attempts to deploy to the robot, unless you are connected to the roborio.
 
 ## Connecting to the Roborio
