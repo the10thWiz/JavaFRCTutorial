@@ -112,5 +112,13 @@ There are several ways to plug into the roborio:
 {% tab title="First Tab" %}
 To connect via a USB-B to USB-A cable, plug the USB-B end into the square usb port on the roborio. Then plug the USB-A end into your computer.
 {% endtab %}
+
+{% tab title="Ethernet cable" %}
+Plug the Ethernet cable into the Ethernet port 
+{% endtab %}
+
+{% tab title="Wifi" %}
+P
+{% endtab %}
 {% endtabs %}
 
