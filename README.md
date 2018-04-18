@@ -31,5 +31,7 @@ The complete tutorial: [https://www.udemy.com/java-tutorial/](https://www.udemy.
 ```
 **[warning] For warning**
 **[danger] For danger**
-
+> **[info] For info**
+>
+> Use this for infomation messages.
 
