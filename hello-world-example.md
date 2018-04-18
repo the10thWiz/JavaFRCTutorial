@@ -132,7 +132,7 @@ Once the radio is imaged, connect the Roborio to the radio's first ethernet port
 
 Once you have completed one of the processes above, running the program as described above, and it should work without a problem. Although, nothing will happen, becuase there is no Driverstation attached.
 
-{% page-ref page="dashboard.md" %}
+{% page-ref page="driverstation.md" %}
 
 
 

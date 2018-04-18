@@ -10,23 +10,23 @@ Topics will include:
 
 {% page-ref page="git-github.md" %}
 
-{% page-ref page="dashboard.md" %}
+{% page-ref page="driverstation.md" %}
 
-{% page-ref page="untitled-1.md" %}
+{% page-ref page="subsytems.md" %}
 
-{% page-ref page="untitled-2.md" %}
+{% page-ref page="motors.md" %}
 
 {% page-ref page="commands.md" %}
 
 {% page-ref page="joysticks.md" %}
 
-{% page-ref page="untitled-3.md" %}
+{% page-ref page="drivetrain.md" %}
 
 {% page-ref page="encoders.md" %}
 
 {% page-ref page="gyros.md" %}
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="shuffleboard.md" %}
 
 {% page-ref page="imaging-the-radio.md" %}
 
