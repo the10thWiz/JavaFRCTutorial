@@ -24,7 +24,19 @@ Use `$ sudo apt-get install openjdk-8-jdk` in the terminal to install java
 {% endtab %}
 {% endtabs %}
 
-Second, we need our IDE \(Integrated Development Enviroment\). The IDE, Eclipse, will compile, and deploy the Java programs we write
+Second, we need our IDE \(Integrated Development Enviroment\). With our IDE, Eclipse, we will edit, compile and deploy our Java programs
+
+{% tabs %}
+{% tab title="First Tab" %}
+The Eclipse installer can be downloaded from: [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
+
+Once downloaded, run the executable file, and select **Eclipse IDE from Java Developers **Then simply click install, and Eclipse will be installed.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 
 
