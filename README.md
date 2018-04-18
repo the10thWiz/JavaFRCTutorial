@@ -50,3 +50,11 @@ Warnings will look like this. Warnings are simple tidbits and best practices
 Danger signs will be used in indicate items that could be extremely bad.
 {% endhint %}
 
+### Notes:
+
+* This tutorial is written for the 2018 control system, however, we do plan to update this tutorial if possible.
+* While this tutorial is written by and for Team 1732, other teams may find it useful. Be aware that some items are specific to Team 1732, but I will try to include a warning.
+* Team 1732 is not affiliated with First, so any opions on the right way to run a team, and how to code, are purely the opions of Team 1732
+
+Thank you for reading this far. Happy coding!
+
