@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * ["Hello, World" Example](hello-world-example.md)
 * [Driverstation](dashboard.md)
-* Git / Github
+* [Git / Github](git-github.md)
 * Subsytems
 * Commands
 * Motors

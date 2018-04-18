@@ -10,13 +10,17 @@ The FRC Driverstation is a program that you run on your computer, that interface
 The FRC Driverstation only runs on Windows. You can deploy from any computer, but you will need to have a Windows computer to run the driverstation on. If you are connected over wifi, more than one computer can connect, so you don't need to switch what computer you are plugged into.
 {% endhint %}
 
-{% tabs %}
-{% tab title="First Tab" %}
-To begin, download the NI Dashboard installer here: 
-{% endtab %}
+### Installation
 
-{% tab title="Second Tab" %}
-Your content goes here.
+{% tabs %}
+{% tab title="Windows" %}
+To install follow directions here: [https://wpilib.screenstepslive.com/s/currentCS/m/getting\_started/l/599670-installing-the-frc-update-suite-all-languages](https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/599670-installing-the-frc-update-suite-all-languages)
 {% endtab %}
 {% endtabs %}
+
+### Using the driverstation
+
+
+
+
 
