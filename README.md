@@ -16,7 +16,7 @@ Topics will include:
 * Gyros
 * Shuffleboard
 
-This book is not intended to teach basic java concepts. However, the reality is that most poeple reading this tutorial will also be learning java at the same time, so links refrences to videos in a free Udemy course wil be provided for many of the java concepts needed
+This book is not intended to teach basic Java concepts. However, the reality is that most poeple reading this tutorial will also be learning Java at the same time, so links refrences to videos in a free Udemy course will be provided for many of the Java concepts needed
 
 ### Guide to symbols in this tutorial
 
@@ -26,14 +26,15 @@ Links will be provided in boxes like this one.
 The complete tutorial: [https://www.udemy.com/java-tutorial/](https://www.udemy.com/java-tutorial/)
 {% endhint %}
 
-```text
+```java
 //Code will be placed in blocks like this
 ```
 
-**[warning] For warning**
-**[danger] For danger**
+{% hint style="warning" %}
+Warnings will look like this. Warnings are simple tidbits and best practices
+{% endhint %}
 
-**[info] For info**
-
-
+{% hint style="danger" %}
+Danger signs will be used in idicate items that could be extremely bad.
+{% endhint %}
 
