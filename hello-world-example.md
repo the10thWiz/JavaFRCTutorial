@@ -1,6 +1,6 @@
 # "Hello, World" Example
 
-So. Here goes with the obligitory "Hello, World" program.
+So. Here goes with the obligatory "Hello, World" program.
 
 ## Step 1: Installing Java and other tools
 
@@ -25,10 +25,10 @@ Use `$ sudo apt-get install openjdk-8-jdk` in the terminal to install java
 {% endtabs %}
 
 {% hint style="danger" %}
-The WPI plugins, and the Roborio are not compatable with Java 9. All links are provided to Java 8.
+The WPI plugins, and the Roborio are not compatible with Java 9. All links are provided to Java 8.
 {% endhint %}
 
-### Second, we need our IDE \(Integrated Development Enviroment\). With our IDE, Eclipse, we will edit, compile and deploy our Java programs
+### Second, we need our IDE \(Integrated Development Environment\). With our IDE, Eclipse, we will edit, compile and deploy our Java programs
 
 {% tabs %}
 {% tab title="Windows" %}
@@ -44,7 +44,7 @@ Run the installer, and select **Eclipse IDE for Java Developers**, and click ins
 {% endtab %}
 
 {% tab title="Linux" %}
-There is an eclipse package in the repositories. This package is outdated, so it is prefered to download the eclipse installer from [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
+There is an eclipse package in the repositories. This package is outdated, so it is preferred to download the eclipse installer from [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
 
 If you choose the package, just execute the command: `$ sudo apt-get install eclipse`
 
@@ -65,7 +65,7 @@ When you start up Eclipse, it will ask you for a workspace directory. The defaul
 From Eclipse, click the **Help** &gt; **Install New Software**. The window that opens up will ask for a site to work with. Use `http://first.wpi.edu/FRC/roborio/release/eclipse/` Then select **Robot Java Development**, under **WPILIB Robot Development**. Finally click install, and accept the licenses agreements.
 
 {% hint style="info" %}
-The WPI plugins only installs the base libraries. Other third party libraries need to be installed seperately. There are instructions on how Team 1732 keeps track of and add libraries on the git tutorial
+The WPI plugins only installs the base libraries. Other third party libraries need to be installed separately. There are instructions on how Team 1732 keeps track of and add libraries on the git tutorial
 
 {% page-ref page="git-github.md" %}
 {% endhint %}
@@ -73,9 +73,7 @@ The WPI plugins only installs the base libraries. Other third party libraries ne
 ## Step 2: Writing Code
 
 {% hint style="success" %}
-Udemy Hello World tutorial for desktop Java: 
-
-{% embed data="{\"url\":\"https://www.udemy.com/java-tutorial/learn/v4/t/lecture/131404?start=0Motors\",\"type\":\"link\",\"title\":\"Java Tutorial for Complete Beginners \| Udemy\",\"description\":\"This free java tutorial for complete beginners will help you learn the java programming language from scratch. Start coding in no time with this course!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.udemy.com/staticx/udemy/images/v6/favicon-196x196.png\",\"width\":196,\"height\":196,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://udemy-images.udemy.com/course/480x270/24823\_963e\_14.jpg\",\"width\":480,\"height\":270,\"aspectRatio\":0.5625}}" %}
+Udemy Hello World tutorial for desktop Java: [https://www.udemy.com/java-tutorial/learn/v4/t/lecture/131404?start=0](https://www.udemy.com/java-tutorial/learn/v4/t/lecture/131404?start=0)
 {% endhint %}
 
 To begin, we need to create a new project, and fill in the files to do stuff.
