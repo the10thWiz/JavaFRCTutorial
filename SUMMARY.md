@@ -4,7 +4,7 @@
 * ["Hello, World" Example](hello-world-example.md)
 * [Driverstation](driverstation.md)
 * [Git / Github](git-github.md)
-* Subsytems
+* [Subsytems](subsytems.md)
 * [Motors](motors.md)
 * Pnuematics
 * Commands
