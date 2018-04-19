@@ -62,7 +62,8 @@ Boxes like this will also provide advanced users with more complex and better me
 
 * This tutorial is written for the 2018 control system, however, we do plan to update this tutorial if possible.
 * While this tutorial is written by and for Team 1732, other teams may find it useful. Be aware that some items are specific to Team 1732, but I will try to include a warning.
-* Team 1732 is not affiliated with First, so any opions on the right way to run a team, and how to code, are purely the opions of Team 1732
+* Team 1732 is not affiliated with First, so any opinions on the right way to run a team, and how to code, are purely the opinions of Team 1732
+* This tutorial was originaly written for the freshmen of Team 1732
 
 Thank you for reading this far. Happy coding!
 
