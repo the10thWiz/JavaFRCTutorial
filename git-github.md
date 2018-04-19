@@ -1,6 +1,6 @@
 # Git / Github
 
-Git is collaboration software intended for programming. Github is a free public Git server, where you can host your own git repositories
+imGit is collaboration software intended for programming. Github is a free public Git server, where you can host your own git repositories
 
 {% hint style="info" %}
 Most FRC teams use Git and Github, including Team 1732
@@ -32,17 +32,23 @@ If someone else has made changes, and pushed them to github, you can pull them t
 If you get this wrong, it can take hours to fix the mess that this creates. Follow these instructions carefully
 {% endhint %}
 
-Don't. Just get someone who knows what there doing.
+Most of the time, merging happen automatically, and behind the scenes. However, if there are conflicts, you will need to manually fix the issues. To do this, you will be given a commit screen of the conflicts:
 
-{% hint style="info" %}
-This will be updated with an actual tutorial later
-{% endhint %}
+![](.gitbook/assets/screenshot-from-2018-04-18-20-07-04.png)
+
+If you right click on the conflicting file, you are given the options to **Replace With** one version or the other. If you can, simply select one, and add it to the staged changes. However, if you need to resolve the changes, you can open up the** Merge Tool**, which will allow you to decide whether specific changes should be added.
+
+![](.gitbook/assets/screenshot-from-2018-04-18-20-10-58.png)
+
+Once you have resolved the changes, add the file to the index, and commit the final version.
 
 ### Creating a repository
 
-To create a Github repository, open up github.com, click the plus \(in the upper right\) and select **New Repository**. Give it a name, and click finish.
+To create a Github repository, open up github.com, click the plus \(in the upper right\) and select **New Repository**. Give it a name, and make sure to add a readme file before clicking finish. Clone the repository to your computer, and exit Eclipse.
 
-{% hint style="info" %}
-Adding projects to the repository will be added later
+Next, go into your filesystem, and move the project you created from the eclipse workspace \(defualts to %USER HOME%/eclipseWorkspace\), into the git repository \(defualts to %USER HOM%/git\). Then open up Eclipse, and commit the changes to the repository.
+
+{% hint style="success" %}
+It is possible to avoid closing eclipse, but you have to force eclipse to update from the filesystem. This can be acomplished via `F5 `but is not recommended for new users. Advanced users can also acomplish these tasks with the Git CLI, and repository creation is alot easier on the CLI.
 {% endhint %}
 
