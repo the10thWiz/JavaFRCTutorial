@@ -32,7 +32,7 @@ This book is not intended to teach basic Java concepts. However, the reality is 
 
 ### Guide to symbols in this tutorial
 
-{% hint style="info" %}
+{% hint style="success" %}
 Links will be provided in boxes like this one.
 
 The complete tutorial: [https://www.udemy.com/java-tutorial/](https://www.udemy.com/java-tutorial/)
@@ -48,6 +48,14 @@ Warnings will look like this. Warnings are simple tidbits and best practices
 
 {% hint style="danger" %}
 Danger signs will be used in indicate items that could be extremely bad.
+{% endhint %}
+
+{% hint style="info" %}
+Simple hints on how to do some things better, or to note conventions will be placed in boxes like this.
+{% endhint %}
+
+{% hint style="success" %}
+Boxes like this will also provide advanced users with more complex and better methods
 {% endhint %}
 
 ### Notes:
