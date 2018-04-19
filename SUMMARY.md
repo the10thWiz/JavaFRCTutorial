@@ -5,7 +5,7 @@
 * [Driverstation](driverstation.md)
 * [Git / Github](git-github.md)
 * Subsytems
-* Motors
+* [Motors](motors.md)
 * Pnuematics
 * Commands
 * Joysticks
