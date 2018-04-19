@@ -13,5 +13,4 @@
 * Encoders
 * Gyros
 * ShuffleBoard
-* Imaging the Radio
 

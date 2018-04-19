@@ -124,7 +124,7 @@ Plug the Ethernet cable into the Ethernet port
 {% tab title="Wifi" %}
 This option requires more setup. First you need to configure the radio. This only needs to be preformed for new radios, or when an update comes out.
 
-{% page-ref page="imaging-the-radio.md" %}
+Instructions can be found at [https://wpilib.screenstepslive.com/s/4485/m/13503/l/144986-programming-your-radio-for-home-use](https://wpilib.screenstepslive.com/s/4485/m/13503/l/144986-programming-your-radio-for-home-use)
 
 Once the radio is imaged, connect the Roborio to the radio's first ethernet port and ask electrical to power it. Then connect to the wifi the radio creates from your computer.
 {% endtab %}
