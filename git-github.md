@@ -20,7 +20,7 @@ Now the repository is on your computer, and it should show up in the Git Resposi
 
 Once you have the repository on your computer, you can start editing it. Once you have made some changes, and want to share them back with the original repository, you need to commit and push them.
 
-To do this, right click on the repository in the git view, and select **Commit**. In the view that pops up, all of the changes you have made show up on the top left. Move them to the bottom left by dragging them, and write a commit message on the right. Once you have chosen the changes to commit \(probably all of them\), select commit and push. This will save the changes you have made to a history that can be restored, and push them to Github. If you are not connected to a network, Commiting will still work, but you must wait until you are connected to the internet to push. Then, when you connect, right click on the repository, and select **Push**.
+To do this, right click on the repository in the git view, and select **Commit**. In the view that pops up, all of the changes you have made show up on the top left. Move them to the bottom left by dragging them, and write a commit message on the right. This message is recorded with the commit, and should provide a quick description of the changes you have made since the last commit. Once you have chosen the changes to commit \(probably all of them\), select commit and push. This will save the changes you have made to a history that can be restored, and push them to Github. If you are not connected to a network, Commiting will still work, but you must wait until you are connected to the internet to push. Then, when you connect, right click on the repository, and select **Push**.
 
 Becuase git only keeps track of commits, and not every edit, make sure to commit often. A good rule of thumb is to commit after every meeting, at the very least. More than likely, you should be commiting every version of the code you test on the robot.
 
@@ -48,7 +48,9 @@ Once you have resolved the changes, add the file to the index, and commit the fi
 
 When you right click on a git repository, you can open it up in **History**. If you do, you can see every commit made, and right clicking will provide the option to revert the commit.
 
-
+{% hint style="info" %}
+Internally, reverting a commit just commits the exact opposite of what you originally committed. Git does not require you to revert commits in order, so you can revert a commit you made months ago, with out reverting everything else you have done since.
+{% endhint %}
 
 ### Creating a repository
 
