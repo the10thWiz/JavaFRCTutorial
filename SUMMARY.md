@@ -5,9 +5,9 @@
 * [Driverstation](driverstation.md)
 * [Git / Github](git-github.md)
 * Subsytems
-* Commands
 * Motors
 * Pnuematics
+* Commands
 * Joysticks
 * Drivetrain
 * Encoders
