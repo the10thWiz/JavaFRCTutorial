@@ -22,6 +22,8 @@ Once you have the repository on your computer, you can start editing it. Once yo
 
 To do this, right click on the repository in the git view, and select **Commit**. In the view that pops up, all of the changes you have made show up on the top left. Move them to the bottom left by dragging them, and write a commit message on the right. Once you have chosen the changes to commit \(probably all of them\), select commit and push. This will save the changes you have made to a history that can be restored, and push them to Github. If you are not connected to a network, Commiting will still work, but you must wait until you are connected to the internet to push. Then, when you connect, right click on the repository, and select **Push**.
 
+Becuase git only keeps track of commits, and not every edit, make sure to commit often. A good rule of thumb is to commit after every meeting, at the very least. More than likely, you should be commiting every version of the code you test on the robot.
+
 ### Pulling
 
 If someone else has made changes, and pushed them to github, you can pull them to your computer by right clicking the repostory, and selecting **Pull**.
@@ -41,6 +43,12 @@ If you right click on the conflicting file, you are given the options to **Repla
 ![](.gitbook/assets/screenshot-from-2018-04-18-20-10-58.png)
 
 Once you have resolved the changes, add the file to the index, and commit the final version.
+
+### Reverting Commits
+
+When you right click on a git repository, you can open it up in **History**. If you do, you can see every commit made, and right clicking will provide the option to revert the commit.
+
+
 
 ### Creating a repository
 
