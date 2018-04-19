@@ -72,6 +72,12 @@ The WPI plugins only installs the base libraries. Other third party libraries ne
 
 ## Step 2: Writing Code
 
+{% hint style="success" %}
+Udemy Hello World tutorial for desktop Java: 
+
+{% embed data="{\"url\":\"https://www.udemy.com/java-tutorial/learn/v4/t/lecture/131404?start=0Motors\",\"type\":\"link\",\"title\":\"Java Tutorial for Complete Beginners \| Udemy\",\"description\":\"This free java tutorial for complete beginners will help you learn the java programming language from scratch. Start coding in no time with this course!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.udemy.com/staticx/udemy/images/v6/favicon-196x196.png\",\"width\":196,\"height\":196,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://udemy-images.udemy.com/course/480x270/24823\_963e\_14.jpg\",\"width\":480,\"height\":270,\"aspectRatio\":0.5625}}" %}
+{% endhint %}
+
 To begin, we need to create a new project, and fill in the files to do stuff.
 
 To create a project, go to **File** &gt; **New...** &gt; **Project...**. In the window that pops up, select **WPI Robot Java Development** &gt; **Robot Java Project**. To create the project, we will need a name for the project, and type. Team 1732 does command based programming, and this tutorial is written specifically for Command based programming.
