@@ -84,7 +84,7 @@ For the name, I selected `HelloWorld`
 
 Now there is a project listed in the Package Explorer:
 
-![](.gitbook/assets/eclipsepackageexplorer%20%281%29.png)
+![](.gitbook/assets/eclipsepackageexplorer.png)
 
 Double click, or click the little arrow to open the project, and see the various subdirectories in the project. 
 
