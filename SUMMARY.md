@@ -9,7 +9,7 @@
 * [Motors](motors.md)
 * Pnuematics
 * [Commands](commands.md)
-* Joysticks
+* [Joysticks](joysticks.md)
 * Drivetrain
 * Encoders
 * Gyros
