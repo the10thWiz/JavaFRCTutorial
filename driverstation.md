@@ -1,5 +1,5 @@
 ---
-description: '***WIP***'
+description: '***WIP*** By Ji Lau'
 ---
 
 # Driverstation
@@ -44,7 +44,7 @@ In the Driverstation, there are five main categories to work with. This includes
 
 **Dashboard Type - **This option allows you to select which type of dashboard you want to use to interface with your robot. This could be the default PC dashboard, SmartDashboard, or the ShuffleBoard, which will also be covered on in a different tutorial.
 
-**Game Data **- 
+**Game Data **-  This is data provided to robot at the beginning of Autonomous or Practice Mode. This will be covered in a later tutorial, and is not used by every FRC game.
 
 ### Diagnostics Page
 
@@ -56,11 +56,11 @@ In the Driverstation, there are five main categories to work with. This includes
 
 **Robot \(IP\) - **
 
-**FMS -**
+**FMS - **The status light will turn green if you have properly connected to the Field Management System. During practice, this light should be off.
 
-**Enet -**
+**Enet - **The status light will turn green if you have properly connected to your robot using an Ethernet cable.
 
-**WIFI - **
+**WIFI - **The status light will turn green if you have properly connected to your robot over Wifi.
 
 **USB - **The status light will turn green if you have properly connected to your robot using a USB cable.
 
@@ -70,7 +70,7 @@ In the Driverstation, there are five main categories to work with. This includes
 
 ![](.gitbook/assets/usb-devices.PNG)
 
-This page is important for identifying what devices you have connected to your computer that can control the robot. For example, this page might list your joysticks.
+This page is important for identifying what devices you have connected to your computer that can control the robot. For example, this page might list your joysticks. This will be covered in a later tutorial.
 
 ### Operation Page
 
@@ -82,15 +82,15 @@ Besides the dashboard, you will probably spend most of your time on this page of
 
 ![](.gitbook/assets/driving-modes%20%282%29.PNG)
 
-**TeleOperated - M**anually driving with your joysticks.
+**TeleOperated - **Manually driving with your joysticks. Also called TeleOp
 
 **Autonomous -** Used for - you guessed it - autonomous operation.
 
-**Practice -** 
+**Practice -** Runs Autonomous and then TeleOp, for the times specified in the config panel.
 
-**Test -**
+**Test - **A mode specifically for testing things on the robot. Not used vary often.
 
-Note that the Driverstation is defaulted to having the robot disabled. When you select a mode, make sure you press the enable button so that the robot is functioning as you intend. If you must stop the robot in an emergency, especially when your robot's autonomous is not functioning as might be desired, press **space **to quickly disable the robot.
+Note that the Driverstation is defaulted to having the robot disabled. When you select a mode, make sure you press the enable button so that the robot is functioning as you intend. If you must stop the robot in an emergency, especially when your robot's autonomous is not functioning as might be desired, press **Enter **to quickly disable the robot. **Space** will emergency stop \(E-stop\) the robot. If the robot is E-stopped, you must reboot the roborio.
 
 Also, in addition to these driving modes, there are also other miscellaneous items, including:
 

@@ -1,3 +1,7 @@
+---
+description: By Matthew Pomes
+---
+
 # "Hello, World" Example
 
 So. Here goes with the obligatory "Hello, World" program.
@@ -74,6 +78,8 @@ The WPI plugins only installs the base libraries. Other third party libraries ne
 
 {% hint style="success" %}
 Udemy Hello World tutorial for desktop Java: [https://www.udemy.com/java-tutorial/learn/v4/t/lecture/131404?start=0](https://www.udemy.com/java-tutorial/learn/v4/t/lecture/131404?start=0)
+
+Be aware that the `public static void main(String[] args)` method is not used when we are programming the robot.
 {% endhint %}
 
 To begin, we need to create a new project, and fill in the files to do stuff.
@@ -108,6 +114,8 @@ To run the program, right click on the the project in the Package explorer, and 
 
 {% hint style="warning" %}
 You may get an error about the java compiler, like compiler not found. To fix this, go to **Window **&gt; **Prefrences**. In the window, select **Java **&gt; **Installed JREs**. There, select the JDK, rather than the JRE.
+
+![Prefrences Screen](.gitbook/assets/screenshot-from-2018-04-23-13-59-52.png)
 {% endhint %}
 
 You will get an error when it attempts to deploy to the robot, unless you are connected to the roborio.

@@ -1,3 +1,7 @@
+---
+description: By Matthew Pomes
+---
+
 # Git / Github
 
 Git is collaboration software intended for programming. Github is a free public Git server, where you can host your own git repositories. Git allows us to keep track of various changes and branches of code, sort of like a Google Docs for code.

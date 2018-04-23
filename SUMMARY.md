@@ -8,7 +8,7 @@
 * [Subsytems](subsytems.md)
 * [Motors](motors.md)
 * Pnuematics
-* Commands
+* [Commands](commands.md)
 * Joysticks
 * Drivetrain
 * Encoders
