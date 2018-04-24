@@ -32,3 +32,5 @@ This book is not intended to teach basic Java concepts. However, the reality is 
 
 Thank you for reading this far. Happy coding!
 
+Full source code for all of the projects can be found at [https://github.com/the10thWiz/JavaTutorialProjects](https://github.com/the10thWiz/JavaTutorialProjects)
+
