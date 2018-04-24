@@ -10,8 +10,8 @@
 * Pnuematics
 * [Commands](commands.md)
 * [Joysticks](joysticks.md)
-* Drivetrain
-* Encoders
-* Gyros
-* ShuffleBoard
+* [Drivetrain](drivetrain.md)
+* [Encoders](encoders.md)
+* [Gyros](gyros.md)
+* [ShuffleBoard](shuffleboard.md)
 
