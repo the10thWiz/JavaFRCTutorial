@@ -63,6 +63,6 @@ To create a Github repository, open up github.com, click the plus \(in the upper
 Next, go into your filesystem, and move the project you created from the eclipse workspace \(defualts to %USER HOME%/eclipseWorkspace\), into the git repository \(defualts to %USER HOM%/git\). Then open up Eclipse, and commit the changes to the repository.
 
 {% hint style="success" %}
-It is possible to avoid closing eclipse, but you have to force eclipse to update from the filesystem. This can be acomplished via `F5 `but is not recommended for new users. Advanced users can also acomplish these tasks with the Git CLI, and repository creation is alot easier on the CLI.
+It is possible to avoid closing eclipse, but you have to force eclipse to update from the filesystem. This can be acomplished via `F5 `but is not recommended for new users. Advanced users can also acomplish these tasks with the Git CLI, and repository creation is a lot easier on the CLI.
 {% endhint %}
 
