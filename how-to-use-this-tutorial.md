@@ -47,3 +47,66 @@ Boxes like this will also provide advanced users with more complex and better me
 * Team 1732 is not affiliated with First, so any opinions on the right way to run a team, and how to code, are purely the opinions of Team 1732
 * This tutorial was originaly written for the freshmen of Team 1732
 
+### The Udemy Tutorial Notes:
+
+Becuase no prior knowledge of Java is assumed, we will be using content from a Udemy tutorial to supplment this course with general Java knowledge. Becuase the Udemy course is intended to teach the entirety of Desktop Java, and FRC Java, we have notes in the various tutorials about when specific concepts are needed. For refrence, a list of the tutorials needed, by section, is provided below.
+
+#### "Hello, World" Example
+
+
+
+#### Subsystyems
+
+
+
+```text
+A Hello World Program 4:46
+Using Variables 7:53
+Strings: Working With Text 9:21
+While Loops 7:15
+For Loops 9:28
+"If" 12:26
+Getting User Input 8:52
+Do ... While 8:05
+Switch 6:52
+Arrays 9:46
+Arrays of Strings 8:39
+Multi-Dimensional Arrays 13:06
+Classes and Objects 11:44
+Methods 11:05
+Getters and Return Values 10:31
+Method Parameters 15:00
+Setters and "this" 10:58
+Constructors 10:18
+Static (and Final) 19:46
+String Builder and String Formatting 19:43
+The toString Method 11:06
+Inheritance 14:09
+Packages 14:03
+Interfaces 19:15
+Public, Private, Protected 19:57
+Polymorphism 10:04
+Encapsulation and the API Docs 11:17
+Casting Numerical Values 11:16
+Upcasting and Downcasting 13:54
+Using Generics 12:40
+Generics and Wildcards 17:50
+Anonymous Classes 8:56
+Reading Files Using Scanner 12:55
+Handling Exceptions 16:23
+Multiple Exceptions 12:11
+Runtime vs. Checked Exceptions 8:49
+Abstract Classes 12:58
+Reading Files With File Reader 17:26
+Try-With-Resources 11:12
+Creating and Writing Text Files 6:20
+The Equals Method 17:21
+Inner Classes 16:33
+Enum Types: Basic and Advanced Usage 19:20
+Recursion: A Useful Trick Up Your Sleeve 17:26
+Serialization: Saving Objects to Files 21:17
+Serializing Arrays 14:42
+The Transient Keyword and More Serialization 16:14
+Passing by Value 21:30
+```
+
