@@ -4,14 +4,14 @@ description: '***WIP*** By Ji Lau'
 
 # Driverstation
 
-The FRC Driverstation controls the robot. All communication with the robot occurs through the driverstation.
+The FRC Driverstation controls the robot. All communication with the robot occurs through the Driverstation.
 
-There are also several tool the driverstation provides, like allowing you to kill your programs at anytime, and receive output from the robot.
+There are also several tool the Driverstation provides, like allowing you to kill your programs at anytime, and receive output from the robot.
 
 The FRC Driverstation is a program that you run on your computer, that interfaces with the roborio over any of the connections mentioned at the end of the Hello, World example.
 
 {% hint style="warning" %}
-The FRC Driverstation only runs on Windows. You can deploy from any computer, but you will need to have a Windows computer to run the driverstation on. If you are connected over wifi, more than one computer can connect, so you don't need to switch what computer you are plugged into.
+The FRC Driverstation only runs on Windows. You can deploy from any computer, but you will need to have a Windows computer to run the Driverstation on. If you are connected over wifi, more than one computer can connect, so you don't need to switch what computer you are plugged into.
 {% endhint %}
 
 ### Installation
@@ -38,33 +38,33 @@ In the Driverstation, there are five main categories to work with. This includes
 
 ![](.gitbook/assets/setup-section.PNG)
 
-**Team Number **- This is important as you must specify your team number so that you may properly link up to the robot.
+**Team Number** - This is important as you must specify your team number so that you may properly link up to the robot.
 
-**Practice Timing\(s\) **- These are the times in seconds that each part of the FRC game lasts. This is important for the "Practice" mode in the Operation page that I will elaborate on later in the tutorial.
+**Practice Timing\(s\)** - These are the times in seconds that each part of the FRC game lasts. This is important for the "Practice" mode in the Operation page that I will elaborate on later in the tutorial.
 
-**Dashboard Type - **This option allows you to select which type of dashboard you want to use to interface with your robot. This could be the default PC dashboard, SmartDashboard, or the ShuffleBoard, which will also be covered on in a different tutorial.
+**Dashboard Type -** This option allows you to select which type of dashboard you want to use to interface with your robot. This could be the default PC dashboard, SmartDashboard, or the ShuffleBoard, which will also be covered on in a different tutorial.
 
-**Game Data **-  This is data provided to robot at the beginning of Autonomous or Practice Mode. This will be covered in a later tutorial, and is not used by every FRC game.
+**Game Data** -  This is data provided to robot at the beginning of Autonomous or Practice Mode. This will be covered in a later tutorial, and is not used by every FRC game.
 
 ### Diagnostics Page
 
 ![](.gitbook/assets/diagnostics-section.PNG)
 
-**Enet Link **- 
+**Enet Link** - 
 
-**Robot Radio **- 
+**Robot Radio** - 
 
-**Robot \(IP\) - **
+**Robot \(IP\) -** 
 
-**FMS - **The status light will turn green if you have properly connected to the Field Management System. During practice, this light should be off.
+**FMS -** The status light will turn green if you have properly connected to the Field Management System. During practice, this light should be off.
 
-**Enet - **The status light will turn green if you have properly connected to your robot using an Ethernet cable.
+**Enet -** The status light will turn green if you have properly connected to your robot using an Ethernet cable.
 
-**WIFI - **The status light will turn green if you have properly connected to your robot over Wifi.
+**WIFI -** The status light will turn green if you have properly connected to your robot over Wifi.
 
-**USB - **The status light will turn green if you have properly connected to your robot using a USB cable.
+**USB -** The status light will turn green if you have properly connected to your robot using a USB cable.
 
-**Firewall **- The status light will turn green if your firewall is properly configured while you are connected to the robot.
+**Firewall** - The status light will turn green if your firewall is properly configured while you are connected to the robot.
 
 ### USB Devices Page
 
@@ -82,27 +82,27 @@ Besides the dashboard, you will probably spend most of your time on this page of
 
 ![](.gitbook/assets/driving-modes%20%282%29.PNG)
 
-**TeleOperated - **Manually driving with your joysticks. Also called TeleOp
+**TeleOperated -** Manually driving with your joysticks. Also called TeleOp
 
 **Autonomous -** Used for - you guessed it - autonomous operation.
 
 **Practice -** Runs Autonomous and then TeleOp, for the times specified in the config panel.
 
-**Test - **A mode specifically for testing things on the robot. Not used vary often.
+**Test -** A mode specifically for testing things on the robot. Not used very often.
 
-Note that the Driverstation is defaulted to having the robot disabled. When you select a mode, make sure you press the enable button so that the robot is functioning as you intend. If you must stop the robot in an emergency, especially when your robot's autonomous is not functioning as might be desired, press **Enter **to quickly disable the robot. **Space** will emergency stop \(E-stop\) the robot. If the robot is E-stopped, you must reboot the roborio.
+Note that the Driverstation is defaulted to having the robot disabled. When you select a mode, make sure you press the enable button so that the robot is functioning as you intend. If you must stop the robot in an emergency, especially when your robot's autonomous is not functioning as might be desired, press **Enter** to quickly disable the robot. **Space** will emergency stop \(E-stop\) the robot. If the robot is E-stopped, you must reboot the roborio.
 
 Also, in addition to these driving modes, there are also other miscellaneous items, including:
 
-**Elasped Time **- How long your robot has been enabled.
+**Elasped Time** - How long your robot has been enabled.
 
-**PC Battery **- Your own computer's battery.
+**PC Battery** - Your own computer's battery.
 
-**PC CPU **- The % of resources your CPU is using to run the actual Driverstation program.
+**PC CPU** - The % of resources your CPU is using to run the actual Driverstation program.
 
-**Window **- Where you want your Driverstation to be positioned. If you select the first option, it will act as a regular window. If you select the second option, the Driverstation will be glued onto the bottom of your screen.
+**Window** - Where you want your Driverstation to be positioned. If you select the first option, it will act as a regular window. If you select the second option, the Driverstation will be glued onto the bottom of your screen.
 
-**Team Station **- Allows you to specify your station when you are competing in a game.
+**Team Station** - Allows you to specify your station when you are competing in a game.
 
 #### Robot Communication
 
@@ -110,19 +110,19 @@ Also, in addition to these driving modes, there are also other miscellaneous ite
 
 This will actually show up no matter what page you are on, but it is most helpful when you are trying to operate your robot.
 
-**Team Number **- Make sure you have the correct team number specified here. You can do so by visiting the setup page mentioned before.
+**Team Number** - Make sure you have the correct team number specified here. You can do so by visiting the setup page mentioned above.
 
-**Robot Battery **- There will be a status indicator right below the Team Number specifying the battery of your robot.
+**Robot Battery** - There will be a status indicator right below the Team Number specifying the battery of your robot.
 
 **Communications -** This will turn green if your computer has been properly connected to your robot.
 
-**Robot Code **- This will turn green if you have successfully deployed robot code into the robot.
+**Robot Code** - This will turn green if you have successfully deployed robot code into the robot.
 
-**Joysticks **- This will turn green if your joysticks are properly connected.
+**Joysticks** - This will turn green if your joysticks are properly connected.
 
 ### Power & CAN
 
 ![](.gitbook/assets/power-and-can.PNG)
 
-
+This view provides some simple information about the electonics on the robot. It is not particularly useful for us.
 

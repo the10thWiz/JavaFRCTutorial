@@ -20,7 +20,7 @@ Make sure to select the **Windows x64** version.
 {% tab title="Mac OS" %}
 Download and run the installer from [http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
-Make sure to select the **Mac OS X x64 **version.
+Make sure to select the **Mac OS X x64** version.
 {% endtab %}
 
 {% tab title="Linux" %}
@@ -38,7 +38,7 @@ The WPI plugins, and the Roborio are not compatible with Java 9. All links are p
 {% tab title="Windows" %}
 The Eclipse installer can be downloaded from: [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
 
-Once downloaded, run the executable file, and select **Eclipse IDE from Java Developers **Then simply click install, and Eclipse will be installed.
+Once downloaded, run the executable file, and select **Eclipse IDE from Java Developers** Then simply click install, and Eclipse will be installed.
 {% endtab %}
 
 {% tab title="Mac OS" %}
@@ -113,7 +113,7 @@ System.out.println("Hello, World!");
 To run the program, right click on the the project in the Package explorer, and select **Run As...** &gt; **WPILib Java Deploy**.
 
 {% hint style="warning" %}
-You may get an error about the java compiler, like compiler not found. To fix this, go to **Window **&gt; **Prefrences**. In the window, select **Java **&gt; **Installed JREs**. There, select the JDK, rather than the JRE.
+You may get an error about the java compiler, like compiler not found. To fix this, go to **Window** &gt; **Prefrences**. In the window, select **Java** &gt; **Installed JREs**. There, select the JDK, rather than the JRE.
 
 ![Prefrences Screen](.gitbook/assets/screenshot-from-2018-04-23-13-59-52.png)
 {% endhint %}
